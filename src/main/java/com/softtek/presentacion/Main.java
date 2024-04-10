@@ -11,9 +11,9 @@ public class Main {
         //selectAll();
         AccesoProducto producto = new AccesoProducto();
 
-        int id = 81;
-        createProduct(producto, id);
-        //selectProduct(producto, id);
+        int id = 55;
+        //createProduct(producto, id);
+        selectProduct(producto, id);
         //updateProduct(producto, id,23);
         //deleteProduct(producto, id);
     }
